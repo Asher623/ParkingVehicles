@@ -1,14 +1,4 @@
-/* ------------------------------------------------------
-Final Project Milestone 6
-Module: ReadWritable
-Filename: ParkingAppTester.cpp
-Version 1.0
-Author	Fardad Soleimanloo
-Revision History
------------------------------------------------------------
-Date      Reason
-2020/7/4  Preliminary release
------------------------------------------------------------*/
+
 #include <fstream>
 #include <iostream>
 #include <ctype.h>
